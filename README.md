@@ -1,6 +1,6 @@
 # Progamming Paragims Bot
 
-Data for [a twitter bot](https://twitter.com/_PPBot) who tweets "$WORD Oriented Programming".  To create the data, run the `combine.r` R script.  The script and data are licensed CC0 (public domain):
+Data for [a twitter bot](https://twitter.com/_PPBot) who tweets "$WORD Oriented Programming" or "$WORD Driven Design".  To create the data, run the `combine.r` R script.  The script and data are licensed CC0 (public domain):
 
 <a href="http://creativecommons.org/publicdomain/zero/1.0/"><img src="http://i.creativecommons.org/p/zero/1.0/88x31.png"></a>
 
@@ -11,8 +11,9 @@ The bot script is:
 
 ```
 {
-	"origin": ["#thing# Oriented Programming"]
-,	"thing": <dump the combined.json output here>
+  "origin": ["#genius#"]
+, "genius": ["#thing# Oriented Programming","#thing# Driven Design"]
+, "thing": <dump the combined.json output here>
 }
 ```
 
