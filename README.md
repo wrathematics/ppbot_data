@@ -7,4 +7,13 @@ Data for [a twitter bot](https://twitter.com/_PPBot) who tweets "$WORD Oriented 
 * The bot itself is powered by  http://cheapbotsdonequick.com/
 * The data is a (tiny!) subset of this awesome corpus (these corpora?) https://github.com/dariusk/corpora
 
-All in all, that data, the bot service, and a few lines of R took this from dumb joke to execution in about an hour.  What a time to be alive.
+The bot script is:
+
+```
+{
+	"origin": ["#thing# Oriented Programming"]
+,	"thing": <dump the combined.json output here>
+}
+```
+
+All in all, thanks to the data repository, the bot service, and a few lines of R, this took went from dumb joke to execution in about an hour.  What a time to be alive.
