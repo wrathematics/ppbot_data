@@ -17,4 +17,4 @@ The bot script is:
 }
 ```
 
-All in all, thanks to the data repository, the bot service, and a few lines of R, this took went from dumb joke to execution in about an hour.  What a time to be alive.
+All in all, thanks to the data repository, the bot service, and a few lines of R, this went from dumb joke to execution in about an hour.  What a time to be alive.
